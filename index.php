@@ -6,6 +6,6 @@
  * Time: 10:59
  */
 
-echo "GIT"0";
+echo "GIT";
 
 
